@@ -19,7 +19,7 @@ To get started with this repository, you'll need to have Python installed on you
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/computational_linguistics.git
+git clone https://github.com/DianaHoefels/computational_linguistics.git
 
 # Navigate to the repository
 cd computational_linguistics
