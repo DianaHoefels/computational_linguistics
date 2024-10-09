@@ -1,5 +1,4 @@
 
-```markdown
 # Computational Linguistics
 
 Welcome to the `computational_linguistics` repository! This project is dedicated to the fascinating world of computational linguistics and features a range of Python scripts and resources that dive deep into natural language processing (NLP), text analysis, and linguistic data manipulation.
@@ -55,5 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all the contributors who've helped to build and maintain this resource.
 - Special thanks to academic and community leaders who continue to inspire and push the boundaries of computational linguistics.
-
-```
