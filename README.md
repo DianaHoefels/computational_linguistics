@@ -8,10 +8,10 @@ Welcome to the `computational_linguistics` repository! This project is dedicated
 
 This repository is structured to provide a hands-on approach to computational linguistics:
 
-- **Scripts**: Focused Python scripts demonstrating various NLP techniques such as tokenization, parsing, semantic analysis, and more.
-- **Datasets**: Curated datasets to help you practice and implement algorithms that process and analyze linguistic data.
-- **Tutorials**: Step-by-step guides to get you started with the basics of computational linguistics and advance your skills.
-- **References**: A collection of papers, articles, and links to essential resources in the field of computational linguistics.
+- Scripts: Focused Python scripts demonstrating various NLP techniques such as tokenization, parsing, semantic analysis, and more.
+- Datasets: Curated datasets to help you practice and implement algorithms that process and analyze linguistic data.
+- Tutorials: Step-by-step guides to get you started with the basics of computational linguistics and advance your skills.
+- References: A collection of papers, articles, and links to essential resources in the field of computational linguistics.
 
 ## Getting Started
 
