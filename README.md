@@ -56,5 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to all the contributors who've helped to build and maintain this resource.
 - Special thanks to academic and community leaders who continue to inspire and push the boundaries of computational linguistics.
 
-Enjoy exploring computational linguistics with our growing community of learners and experts!
 ```
