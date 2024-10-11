@@ -1,4 +1,4 @@
-
+# Comming Soon 
 # Computational Linguistics
 
 Welcome to the `computational_linguistics` repository! This project is dedicated to the fascinating world of computational linguistics and features a range of Python scripts and resources that dive deep into natural language processing (NLP), text analysis, and linguistic data manipulation.
